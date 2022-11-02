@@ -11,6 +11,6 @@ public class MoodAnalyser {
 
     public static void main(String[] args) {
         MoodAnalyser analyser=new MoodAnalyser();
-        System.out.println("Message is:"+analyser.analyseMood());
+        System.out.println("Message is:"+analyser.analyseMood()+"mood");
     }
 }
